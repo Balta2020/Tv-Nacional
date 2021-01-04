@@ -1,0 +1,22 @@
+
+#EXTM3U
+#EXTINF:-1,HCH
+http://stream.innovandote.com:1935/hch/hch/media_w1981280285_4128.ts
+#EXTINF:-1,Metro Tv
+http://emisoras.hn:8080/metrotv/tracks-v1a1/2021/01/04/04/25/15-05005.ts
+#EXTINF:-1,Puringla tv
+http://stmv1.ifantasy.com.br/puringlatv/puringlatv/media_w886730309_7673.ts
+#EXTINF:-1,Olanchito tv
+http://168.181.121.194:1836/hlscha3/llive-104940.ts?key=3D8aUsX2w
+#EXTINF:-1,FM HOT 
+http://fmhot.04.cl.cdnz.cl/fmhot/smil:cdn.smil/chunklist_b800000_slesp.m3u8
+#EXTINF: -1, WOW TV http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:-1,Directv
+https://e5.cdn4.us/ingest02/48839.m3u8?sf=czEyZjY0eXJzTQ==&token=HXsmVZB_KxZyTq3Jn6kRHw&expires=1560034904&rnd=48839
+#EXTINF:-1,TELECADENA 7/4 
+https://trinity-lh.akamaihd.net/i/TelevicentroLive3_d@687450/master.m3u8?fluxustv.m3u8
+#EXTINF:-1,CANAL 5 EL LIDER
+https://trinity-lh.akamaihd.net/i/TelevicentroLive1_d@17977/master.m3u8
+#EXTINF:-1,TSI 
+https://trinity-lh.akamaihd.net/i/TelevicentroLive2_d@508538/master.m3u8
+
